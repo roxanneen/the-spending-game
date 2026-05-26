@@ -4,7 +4,7 @@ A 60-second interactive game showing where every £100 of UK tax goes — and ho
 
 Built as a Logos London Circle campaign asset on the UK national debt. Designed in the Union Jack palette. Vanilla HTML / CSS / JS — no build step, no framework, no dependencies.
 
-> **Live:** [https://logos.co/ukdebt](https://logos.co/ukdebt) *(coming soon)*
+> **Campaign will be Live at:** [https://logos.co/ukdebt](https://logos.co/ukdebt) *(coming soon)*
 
 ---
 
